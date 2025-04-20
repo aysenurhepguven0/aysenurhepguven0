@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=40&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=80&lines=Hello!+I'm+Ayşenur+Hepgüven+👋;Computer+Engineering+Student+💻;Passionate+Developer+✨" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*wjS6uzRF7lCVabZWraCM7w.gif" width="300" />
-</div>
-
 <h2 align="center">✨ About Me ✨</h2>
 
 ```java
