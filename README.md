@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="(https://miro.medium.com/v2/resize:fit:640/format:webp/1*wjS6uzRF7lCVabZWraCM7w.gif)" width="300" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*wjS6uzRF7lCVabZWraCM7w.gif" width="300" />
 </div>
 
 <h2 align="center">✨ About Me ✨</h2>
@@ -59,11 +59,4 @@ public class AboutMe {
   <a href="https://linkedin.com/in/ayşenur-hepgüven" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-87CEEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aysenurhepguven0&color=87CEEB&style=flat-square" alt="Profile Views" />
 </div>
