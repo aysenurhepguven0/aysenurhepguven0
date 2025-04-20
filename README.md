@@ -45,11 +45,6 @@ public class AboutMe {
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs&perline=5" />
   </p>
   
-  <h3>Web Development</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </p>
-  
   <h3>Tools & Technologies</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=git,arduino,unity,mysql,blender,linux,matlab,aws" />
