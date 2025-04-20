@@ -1,14 +1,17 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=twinkling" width="100%"/>
+
 # <div align="center">✨ Hello, I'm Ayşenur! 👋 ✨</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=87CEEB&center=true&vCenter=true&random=false&width=435&lines=Computer+Engineering+Student;Passionate+Software+Developer;Always+Eager+to+Learn;Curious+About+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF6347&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=Computer+Engineering+Student;Passionate+Software+Developer;Always+Eager+to+Learn;Curious+About+New+Technologies" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQ2eWE3ZHFqZzZ5MG41Njl1Mjh1eGZhZHY0eGJjNzZwMHl5cmxubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="center">
+  <img align="center" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+</div>
 
 ## 💫 About Me
 - 🎓 Computer Engineering student at Galatasaray University
-- 🌱 Currently focusing on artificial intelligence and machine learning
 - 💡 I love solving problems and creating new projects
 - 🚀 Passionate about exploring emerging technologies in software development
 - ⚡ Goal: Learn something new every day and continuously improve
@@ -16,7 +19,6 @@
 ## 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ayşenur-hepgüven" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ayşenur-hepgüven"/></a>
-<a href="mailto:youremail@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
 ## 💻 Tech Stack
@@ -60,30 +62,32 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysenurhepguven0&show_icons=true&theme=buefy" alt="aysenurhepguven0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aysenurhepguven0&show_icons=true&theme=radical" alt="aysenurhepguven0" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysenurhepguven0&theme=buefy" alt="aysenurhepguven0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysenurhepguven0&theme=radical" alt="aysenurhepguven0" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurhepguven0&layout=compact&theme=buefy" alt="aysenurhepguven0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurhepguven0&layout=compact&theme=radical" alt="aysenurhepguven0" />
 </div>
 
 ## 🏆 GitHub Trophies
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aysenurhepguven0&theme=flat&column=7&bg_color=87CEEB&title_color=FFFFFF&text_color=FFFFFF" alt="aysenurhepguven0" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aysenurhepguven0&theme=juicyfresh&column=7" alt="aysenurhepguven0" />
   </a> 
 </p>
 
 ## ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&bgcolor=87CEEB" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aysenurhepguven0&label=Profile%20views&color=0e75b6&style=flat" alt="aysenurhepguven0" />
+  <img src="https://komarev.com/ghpvc/?username=aysenurhepguven0&label=Profile%20views&color=ff69b4&style=flat" alt="aysenurhepguven0" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
   <br>
   <i>⭐️ From [aysenurhepguven0](https://github.com/aysenurhepguven0)</i>
 </div>
