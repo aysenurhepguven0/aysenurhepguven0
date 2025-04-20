@@ -3,19 +3,22 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/QvOWs0I.png" width="300" />
+  <img src="(https://miro.medium.com/v2/resize:fit:640/format:webp/1*wjS6uzRF7lCVabZWraCM7w.gif)" width="300" />
 </div>
 
 <h2 align="center">✨ About Me ✨</h2>
 
-```javascript
-const aysenur = {
-  education: "Computer Engineering @ Galatasaray University",
-  interests: ["Software Development", "Artificial Intelligence", "Problem Solving"],
-  currentlyLearning: "Machine Learning",
-  goal: "Contributing to innovative projects that make a difference",
-  funFact: "I learn something new everyday!"
-};
+```java
+public class AboutMe {
+    private String education = "Computer Engineering @ Galatasaray University";
+    private String[] interests = {"Software Development"};
+    private String goal = "Contributing to innovative projects that make a difference";
+    private String funFact = "I learn something new everyday!";
+    
+    public AboutMe() {
+        // Hello, welcome to my profile!
+    }
+}
 ```
 
 <h2 align="center">🛠️ Languages & Tools 🛠️</h2>
