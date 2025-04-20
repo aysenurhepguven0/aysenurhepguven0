@@ -10,18 +10,16 @@
 </div>
 
 <h2 align="center">✨ About Me ✨</h2>
-
-public class AboutMe {
+'''public class AboutMe {
     private String education = "Computer Engineering @ Galatasaray University";
-    private String[] interests = {"Software Development", "Artificial Intelligence", "Problem Solving"};
-    private String currentlyLearning = "Machine Learning";
+    private String[] interests = {"Software Development"};
     private String goal = "Contributing to innovative projects that make a difference";
     private String funFact = "I learn something new everyday!";
     
     public AboutMe() {
         // Hello, welcome to my profile!
     }
-}
+}'''
 
 <h2 align="center">🛠️ Languages & Tools 🛠️</h2>
 
