@@ -1,7 +1,7 @@
 # <div align="center">✨ Hello, I'm Ayşenur! 👋 ✨</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=435&lines=Computer+Engineering+Student;Passionate+Software+Developer;Always+Eager+to+Learn;Curious+About+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=87CEEB&center=true&vCenter=true&random=false&width=435&lines=Computer+Engineering+Student;Passionate+Software+Developer;Always+Eager+to+Learn;Curious+About+New+Technologies" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQ2eWE3ZHFqZzZ5MG41Njl1Mjh1eGZhZHY0eGJjNzZwMHl5cmxubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
@@ -60,25 +60,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysenurhepguven0&show_icons=true&theme=tokyonight" alt="aysenurhepguven0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aysenurhepguven0&show_icons=true&theme=buefy" alt="aysenurhepguven0" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysenurhepguven0&theme=tokyonight" alt="aysenurhepguven0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysenurhepguven0&theme=buefy" alt="aysenurhepguven0" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurhepguven0&layout=compact&theme=tokyonight" alt="aysenurhepguven0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurhepguven0&layout=compact&theme=buefy" alt="aysenurhepguven0" />
 </div>
 
 ## 🏆 GitHub Trophies
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aysenurhepguven0&theme=nord&column=7" alt="aysenurhepguven0" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aysenurhepguven0&theme=flat&column=7&bg_color=87CEEB&title_color=FFFFFF&text_color=FFFFFF" alt="aysenurhepguven0" />
   </a> 
 </p>
 
 ## ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&bgcolor=87CEEB" alt="Random Dev Quote" />
 </div>
 
 ---
