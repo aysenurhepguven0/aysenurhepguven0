@@ -2,19 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=40&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=80&lines=Hello!+I'm+Ayşenur+Hepgüven+👋;Computer+Engineering+Student+💻;Passionate+Developer+✨" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/QvOWs0I.png" width="300" />
+</div>
+
 <h2 align="center">✨ About Me ✨</h2>
 
-```java
-public class AboutMe {
-    private String education = "Computer Engineering @ Galatasaray University";
-    private String[] interests = {"Software Development"};
-    private String goal = "Contributing to innovative projects that make a difference";
-    private String funFact = "I learn something new everyday!";
-    
-    public AboutMe() {
-        // Hello, welcome to my profile!
-    }
-}
+```javascript
+const aysenur = {
+  education: "Computer Engineering @ Galatasaray University",
+  interests: ["Software Development", "Artificial Intelligence", "Problem Solving"],
+  currentlyLearning: "Machine Learning",
+  goal: "Contributing to innovative projects that make a difference",
+  funFact: "I learn something new everyday!"
+};
 ```
 
 <h2 align="center">🛠️ Languages & Tools 🛠️</h2>
@@ -55,4 +56,11 @@ public class AboutMe {
   <a href="https://linkedin.com/in/ayşenur-hepgüven" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-87CEEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aysenurhepguven0&color=87CEEB&style=flat-square" alt="Profile Views" />
 </div>
