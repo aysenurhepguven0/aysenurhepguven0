@@ -8,6 +8,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aysenurhepguven0&custom_title=Ayşenur's%20Activity%20Graph&bg_color=87CEEB&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&radius=10" width="98%" />
 </div>
+
 <h2 align="center">✨ About Me ✨</h2>
 
 public class AboutMe {
