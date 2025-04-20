@@ -54,7 +54,7 @@ public class AboutMe {
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aysenurhepguven0&theme=discord&column=3&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aysenurhepguven0&theme=discord&column=1&no-frame=true&no-bg=true" />
 </p>
 
 <!-- Featured Repositories -->
