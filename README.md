@@ -1,6 +1,6 @@
 <!-- Header Section with Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header&text=Ayşenur%20Hepgüven&fontSize=36&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- GitHub Stats Section -->
