@@ -22,7 +22,7 @@
 ```java
 public class AboutMe {
     private String education = "Computer Engineering @ Galatasaray University";
-    private String[] interests = {"Software Development", "AI", "Problem Solving"};
+    private String[] interests = {"Software Development"};
     private String goal = "Contributing to innovative projects that make a difference";
     private String funFact = "I learn something new everyday!";
     
