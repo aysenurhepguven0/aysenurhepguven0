@@ -3,19 +3,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </div>
 
-<!-- GitHub Statistics Section -->
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=aysenurhepguven0&cc=87CEEB&tc=fff&ic=fff&bc=0000" width="49%" />
-  <picture>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYxcGdlaDd3ODB6cnQ4Njl0OGd5aTFudXk5bnh4cTk2ODM1aGIwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" width="38%" style="border: 8px solid #87CEEB; border-radius: 20px; padding: 0; background-color: #87CEEB;" />
-  </picture>
-</div>
-
-
-<!-- GitHub Contribution Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aysenurhepguven0&custom_title=Ayşenur's%20Activity%20Graph&bg_color=87CEEB&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&radius=10" width="98%" />
-</div>
+<!-- Profile and Activity Graph Side by Side -->
+<table width="100%">
+  <tr>
+    <td width="40%" align="center">
+      <img width="100%" height="auto" src="https://github-stats-alpha.vercel.app/api?username=aysenurhepguven0&cc=87CEEB&tc=fff&ic=fff&bc=0000"/>
+      <br>
+      <img width="100%" height="auto" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYxcGdlaDd3ODB6cnQ4Njl0OGd5aTFudXk5bnh4cTk2ODM1aGIwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" style="border: 5px solid #87CEEB; border-radius: 15px;"/>
+    </td>
+    <td width="60%" align="center">
+      <img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=aysenurhepguven0&custom_title=Ayşenur's%20Activity%20Graph&bg_color=87CEEB&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&radius=10"/>
+    </td>
+  </tr>
+</table>
 
 <!-- About Me Section -->
 <h2 align="center">✨ About Me ✨</h2>
