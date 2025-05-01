@@ -5,8 +5,8 @@
 
 <!-- GitHub Statistics Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysenurhepguven0&show_icons=true&theme=transparent" width="48%"/>
-  <img src="https://github.com/aysenurhepguven0/aysenurhepguven0/raw/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=aysenurhepguven0&cc=87CEEB&tc=fff&ic=fff&bc=0000" width="49%" />
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="49%" />
 </div>
 
 
