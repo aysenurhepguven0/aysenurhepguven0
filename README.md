@@ -1,6 +1,3 @@
-Elbette! Aşağıda, HTML yorumları İngilizceye çevrilmiş ve biçimi düzeltilmiş (bozuk `</div>d` gibi kısımlar temizlenmiş) düzgün bir GitHub README yapısı bulabilirsin:
-
-```markdown
 <!-- Header Section with Wave Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
@@ -77,4 +74,3 @@ public class AboutMe {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
-```
