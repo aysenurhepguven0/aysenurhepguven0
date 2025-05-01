@@ -6,7 +6,7 @@
 <!-- GitHub Statistics Section -->
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=aysenurhepguven0&cc=87CEEB&tc=fff&ic=fff&bc=0000" width="49%" />
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="49%" />
+  <img src="https://giphy.com/gifs/anime-computer-working-and-HqWU6NTLNLzg2Qf5rH" width="49%" />
 </div>
 
 
