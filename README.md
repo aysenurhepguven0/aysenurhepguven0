@@ -7,7 +7,7 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=aysenurhepguven0&cc=87CEEB&tc=fff&ic=fff&bc=0000" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=aysenurhepguven0&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500&background=87CEEB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=aysenurhepguven0&theme=blueberry&hide_border=true" width="49%" />
 </div>
 
 <!-- GitHub Contribution Activity Graph -->
