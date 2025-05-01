@@ -6,8 +6,7 @@
 <!-- GitHub Statistics Section -->
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=aysenurhepguven0&cc=87CEEB&tc=fff&ic=fff&bc=0000" width="49%" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYxcGdlaDd3ODB6cnQ4Njl0OGd5aTFudXk5bnh4cTk2ODM1aGIwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" width="38%" style="border-radius: 15px; border: 3px solid #87CEEB; padding: 5px; background-color: #87CEEB;" /></div>
-
+<a href="#"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYxcGdlaDd3ODB6cnQ4Njl0OGd5aTFudXk5bnh4cTk2ODM1aGIwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" width="38%" style="border-radius: 15px; border: 5px solid #87CEEB; box-shadow: 0 0 10px #87CEEB;" /></a>
 
 <!-- GitHub Contribution Activity Graph -->
 <div align="center">
