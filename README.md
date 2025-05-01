@@ -7,8 +7,8 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysenurhepguven&show_icons=true&theme=transparent" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurhepguven&layout=compact&theme=transparent" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aysenurhepguven0&show_icons=true&theme=transparent" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurhepguven0&layout=compact&theme=transparent" width="48%"/>
 </div>
 
 
