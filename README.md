@@ -1,16 +1,19 @@
+Elbette! Aşağıda, HTML yorumları İngilizceye çevrilmiş ve biçimi düzeltilmiş (bozuk `</div>d` gibi kısımlar temizlenmiş) düzgün bir GitHub README yapısı bulabilirsin:
+
+```markdown
 <!-- Header Section with Wave Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </div>
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Statistics Section -->
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=aysenurhepguven0&cc=87CEEB&tc=fff&ic=fff&bc=0000" width="49%" />
   <img src="https://streak-stats.demolab.com?user=aysenurhepguven0&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=500&background=87CEEB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="49%" />
 </div>
 
-<!-- Activity Graph -->
+<!-- GitHub Contribution Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aysenurhepguven0&custom_title=Ayşenur's%20Activity%20Graph&bg_color=87CEEB&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&radius=10" width="98%" />
 </div>
@@ -18,7 +21,7 @@
 <!-- About Me Section -->
 <h2 align="center">✨ About Me ✨</h2>
 <div align="left">
-  
+
 ```java
 public class AboutMe {
     private String education = "Computer Engineering @ Galatasaray University";
@@ -51,7 +54,7 @@ public class AboutMe {
   </p>
 </div>
 
-<!-- Featured Repositories -->
+<!-- Featured Projects Section -->
 <h2 align="center">🌟 Featured Projects 🌟</h2>
 <div align="center">
   <a href="https://github.com/aysenurhepguven0/Global-AI-Hub-Python-Bootcamp">
@@ -62,7 +65,7 @@ public class AboutMe {
   </a>
 </div>
 
-<!-- Connect Section -->
+<!-- Contact Section -->
 <h2 align="center">📫 Connect With Me 📫</h2>
 <div align="center">
   <a href="https://linkedin.com/in/ayşenur-hepgüven" target="_blank">
@@ -70,8 +73,8 @@ public class AboutMe {
   </a>
 </div>
 
-
-<!-- Footer with Wave Animation -->
+<!-- Footer Section with Wave Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
+```
