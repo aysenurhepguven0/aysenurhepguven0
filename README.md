@@ -6,7 +6,7 @@
 <!-- GitHub Statistics Section -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aysenurhepguven0&show_icons=true&theme=transparent" width="48%"/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48%" />
+  <img src="https://github.com/aysenurhepguven0/aysenurhepguven0/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 
