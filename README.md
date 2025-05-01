@@ -4,11 +4,9 @@
 </div>
 
 <!-- GitHub Statistics Section -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aysenurhepguven0&show_icons=true&theme=transparent" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurhepguven0&layout=compact&theme=transparent" width="48%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48%" />
 </div>
 
 
