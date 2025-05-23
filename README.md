@@ -48,7 +48,7 @@ public class AboutMe {
   
   <h3>Tools & Technologies</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,arduino,unity,mysql,blender,linux,matlab,aws" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,unity,mysql,blender,linux,matlab" />
   </p>
 </div>
 
