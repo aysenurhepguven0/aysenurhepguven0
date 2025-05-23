@@ -48,19 +48,8 @@ public class AboutMe {
   
   <h3>Tools & Technologies</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,arduino,unity,mysql,blender,linux,matlab" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,unity,sqlite,blender,linux,matlab" />
   </p>
-</div>
-
-<!-- Featured Projects Section -->
-<h2 align="center">🌟 Featured Projects 🌟</h2>
-<div align="center">
-  <a href="https://github.com/aysenurhepguven0/Global-AI-Hub-Python-Bootcamp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aysenurhepguven0&repo=Global-AI-Hub-Python-Bootcamp&bg_color=87CEEB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/aysenurhepguven0/Global-AI-Hub-Aygaz-AI-Literacy-Bootcamp-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aysenurhepguven0&repo=Global-AI-Hub-Aygaz-AI-Literacy-Bootcamp-Project&bg_color=87CEEB&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" />
-  </a>
 </div>
 
 <!-- Contact Section -->
